@@ -2,8 +2,8 @@
 ##IGNORESPACE false
 #Replace the . . . with Python code
 #That will print
-#"What is your name? "
-#Take name as input and print "Hello " input name
+#"What is your favorite color? "
+#Take color as input and print "Your favorite color is " + input color
 ##HIDE
-print("Hello "+ input("What is your name? "))
+print("Your favorite color is "+ input("What is your favorite color? "))
 ##EDIT . . .
